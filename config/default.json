@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://naresh:49QNzIkHbyrvuxWb@contact.ieig0.mongodb.net/contact?retryWrites=true&w=majority",
+    "jwtSecret":"minicoders"
+}
